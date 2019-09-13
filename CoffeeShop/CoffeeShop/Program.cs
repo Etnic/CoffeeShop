@@ -6,7 +6,7 @@ namespace CoffeeShop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("s s!dd");
+            Console.WriteLine("dfdsf");
         }
     }
 }
