@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace CoffeeShop
 {
     public class b
-    {
-        
+    { 
     }
 }
