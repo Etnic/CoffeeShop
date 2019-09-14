@@ -8,5 +8,5 @@ namespace CoffeeShop
 {
     public class b
     { 
-    }  
+    }
 }
